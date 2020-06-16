@@ -3,17 +3,54 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://tcpaulyue.github.io/post/graphql/</loc>
+    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tcpaulyue.github.io/post/</loc>
+    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tcpaulyue.github.io/</loc>
+    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tcpaulyue.github.io/tags/</loc>
+    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tcpaulyue.github.io/tags/test/</loc>
+    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tcpaulyue.github.io/contact/</loc>
+    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tcpaulyue.github.io/about/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tcpaulyue.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://tcpaulyue.github.io/</loc>
+    <loc>https://tcpaulyue.github.io/series/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://tcpaulyue.github.io/tags/</loc>
+    <loc>https://tcpaulyue.github.io/tags/index/</loc>
     <priority>0</priority>
   </url>
   
