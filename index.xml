@@ -13,12 +13,14 @@
     
     
     <item>
-      <title>GraphQl</title>
+      <title>Using SpringBoot&#43;GraphQL to query in mongodb flexibly</title>
       <link>https://tcpaulyue.github.io/post/graphql/</link>
       <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://tcpaulyue.github.io/post/graphql/</guid>
-      <description> Features  Mobile First Responsive Semantic SEO Best Practices Open Graph Rich Snippets (JSON-LD) Twitter Card Pagination Customizable Support all Hugo Internals  Integrations  Disqus Google Analytics  </description>
+      <description>&lt;h3 id=&#34;关于graphql&#34;&gt;关于GraphQL&lt;/h3&gt;
+
+&lt;p&gt;GraphQL是facebook开发的一套查询框架，用起来非常清晰清爽，具体用法不是很难，可以参考官网上的demo简单了解。&lt;/p&gt;</description>
     </item>
     
     <item>
