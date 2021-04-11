@@ -35,6 +35,11 @@
   </url>
   
   <url>
+    <loc>https://tcpaulyue.github.io/post/netty/</loc>
+    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tcpaulyue.github.io/post/graphql/</loc>
     <lastmod>2020-06-16T00:00:00+00:00</lastmod>
   </url>
@@ -47,11 +52,6 @@
   <url>
     <loc>https://tcpaulyue.github.io/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tcpaulyue.github.io/post/netty/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
