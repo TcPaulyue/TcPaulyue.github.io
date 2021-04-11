@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Author Name</copyright>
-    <lastBuildDate>Sun, 12 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Apr 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://tcpaulyue.github.io/tags/test/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>春招找暑期实习经历记录</title>
+      <link>https://tcpaulyue.github.io/post/%E6%98%A5%E6%8B%9B%E5%AE%9E%E4%B9%A0/</link>
+      <pubDate>Sun, 11 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tcpaulyue.github.io/post/%E6%98%A5%E6%8B%9B%E5%AE%9E%E4%B9%A0/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Java Dynamic Proxy vs CGlib vs Javassist</title>
@@ -18,7 +27,7 @@
       <pubDate>Sun, 12 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://tcpaulyue.github.io/post/javadynamicproxies/</guid>
-      <description>&lt;p&gt;###Java Dynamic Proxy&lt;/p&gt;
+      <description>&lt;h3 id=&#34;java-dynamic-proxy&#34;&gt;Java Dynamic Proxy&lt;/h3&gt;
 
 &lt;p&gt;Java动态代理是对接口的一种运行时的动态调用&lt;/p&gt;</description>
     </item>
