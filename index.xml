@@ -53,6 +53,15 @@
     </item>
     
     <item>
+      <title>microservice survey</title>
+      <link>https://tcpaulyue.github.io/post/microservice-survey/</link>
+      <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://tcpaulyue.github.io/post/microservice-survey/</guid>
+      <description>&lt;h3 id=&#34;微服务调研&#34;&gt;微服务调研&lt;/h3&gt;</description>
+    </item>
+    
+    <item>
       <title>Contact</title>
       <link>https://tcpaulyue.github.io/contact/</link>
       <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
@@ -67,9 +76,7 @@
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://tcpaulyue.github.io/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
- https://github.</description>
+      <description>个人主页</description>
     </item>
     
     <item>
